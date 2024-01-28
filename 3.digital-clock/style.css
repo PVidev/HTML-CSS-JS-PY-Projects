@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Major+Mono+Display&display=swap');
+
+body {
+    padding: 25rem;
+    font-family: 'Major Mono Display', monospace;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock {
+    color: #adff2f;
+    font-size: 60px;
+    letter-spacing: 6px;
+}
