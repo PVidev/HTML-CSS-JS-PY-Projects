@@ -4,4 +4,4 @@
 3. Digital Clock - 5min project
 4. Random Emoji Icon - 10min project
 5. Random Lucky - 15min project
-6. - JS Calculator - 25 min project
+6. JS Calculator - 25 min project
