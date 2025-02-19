@@ -1,7 +1,49 @@
 # HTML-CSS-JS-Projects
-1. HTML/CSS Page with background video - 10min project
-2. Crypto Mining Calculator - maybe 30min project
-3. Digital Clock - 5min project
-4. Random Emoji Icon - 10min project
-5. Random Lucky - 15min project
-6. JS Calculator - 25 min project
+
+This repository contains small projects mainly focused on **HTML**, **CSS**, **JavaScript**, and **API integrations**.
+
+## 📂 Projects List
+
+### 🎬 HTML/CSS Page with Background Video
+⏳ *Estimated time: 10 min*
+
+A simple webpage that features a background video using HTML & CSS.
+
+---
+
+### ⛏️ Crypto Mining Calculator
+⏳ *Estimated time: 30 min*
+
+A JavaScript-powered calculator for estimating cryptocurrency mining profitability.
+
+---
+
+### ⏰ Digital Clock
+⏳ *Estimated time: 5 min*
+
+A digital clock that updates in real-time using JavaScript.
+
+---
+
+### 🎭 Random Emoji Icon
+⏳ *Estimated time: 10 min*
+
+Generates a random emoji each time the page is refreshed or a button is clicked.
+
+---
+
+### 🍀 Random Lucky
+⏳ *Estimated time: 15 min*
+
+A simple game that randomly picks a lucky winner.
+
+---
+
+### 🧮 JavaScript Calculator
+⏳ *Estimated time: 25 min*
+
+A basic calculator built with HTML, CSS, and JavaScript for performing arithmetic operations.
+
+---
+
+More projects coming soon! 🚀
