@@ -46,4 +46,11 @@ A basic calculator built with HTML, CSS, and JavaScript for performing arithmeti
 
 ---
 
+### 🔠 3D Text Effect
+⏳ *Estimated time: 5 min*
+
+A stylish **3D text effect** using only HTML & CSS. The text has depth, shadow, and hover animations.
+
+---
+
 More projects coming soon! 🚀
