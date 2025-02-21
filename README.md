@@ -67,4 +67,11 @@ A small Python script that generates secure, random passwords with customizable 
 
 ---
 
+### 💡 Python Expense Tracker CLI
+⏳ *Estimated time: 10 min*
+
+A powerful Python-based CLI tool to track and manage expenses with JSON data storage.
+
+---
+
 More projects coming soon! 🚀
