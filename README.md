@@ -60,4 +60,11 @@ An interactive **tag input field** that allows users to add and remove skill tag
 
 ---
 
+### 🐍 Python Password Generator
+⏳ *Estimated time: 5 min*
+
+A small Python script that generates secure, random passwords with customizable length and character sets.
+
+---
+
 More projects coming soon! 🚀
