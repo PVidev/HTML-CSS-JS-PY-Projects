@@ -1,0 +1,22 @@
+[
+    {
+        "category": "Food",
+        "amount": 15.99,
+        "description": "Lunch at a restaurant"
+    },
+    {
+        "category": "Transport",
+        "amount": 2.50,
+        "description": "Bus ticket"
+    },
+    {
+        "category": "Bills",
+        "amount": 45.00,
+        "description": "Electricity bill"
+    },
+    {
+        "category": "Entertainment",
+        "amount": 20.00,
+        "description": "Movie ticket"
+    }
+]
