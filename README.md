@@ -53,4 +53,11 @@ A stylish **3D text effect** using only HTML & CSS. The text has depth, shadow, 
 
 ---
 
+### 🏷️ Dynamic Tags
+⏳ *Estimated time: 8 min*
+
+An interactive **tag input field** that allows users to add and remove skill tags dynamically with randomized colors. Built using **HTML, CSS, and JavaScript**.
+
+---
+
 More projects coming soon! 🚀
